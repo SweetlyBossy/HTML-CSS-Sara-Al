@@ -1,0 +1,52 @@
+.Products-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: last baseline
+    
+     
+
+
+}
+
+
+
+.Star-wars-photo{
+    width: 36.875rem;
+    height: 17.125rem;
+    border-radius: 8.438rem;
+    padding: left;
+    margin: auto;
+
+   
+
+}
+.tombraider-1{
+    width: 36.875rem;
+    height: 17.125rem;
+    border-radius: 8.438rem;
+    padding: right;
+    
+   
+}
+.NFL-25{
+    width: 36.875rem;
+    height: 17.125rem;
+    border-radius: 8.438rem;
+    
+}
+.MW3{
+    width: 36.875rem;
+    height: 17.125rem;
+    border-radius: 8.438rem;
+    
+}
+.Forza1{
+    width: 36.875rem;
+    height: 17.125rem;
+    border-radius: 8.438rem;
+   
+}
+
+
+

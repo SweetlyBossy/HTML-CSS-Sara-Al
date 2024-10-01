@@ -1,0 +1,83 @@
+body {
+    background-color: rgba(74, 70, 70, 1);
+    font-family: sans-serif;
+}
+
+.Header-container {
+    text-align: right;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+}
+
+.sign-in-button {
+    background-color: rgba(227, 227, 227, 1);
+    color: rgba(144, 11, 9, 1);
+    border: none;
+    border-radius: 15% 15% 15% 15%;
+    text-decoration: none;
+    padding: 0.08rem 0.3rem;
+    justify-content: center;
+
+}
+
+.register-button {
+    background-color: rgba(44, 44, 44, 1);
+    color: rgba(245, 245, 245, 1);
+    border: none;
+    border-radius: 15% 15% 15% 15%;
+    text-decoration: none;
+    padding: 0.08rem 0.3rem;
+    justify-content: center;
+}
+
+.GameHub-logo {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: -2.813rem;
+    padding: 0.5rem;
+    width: 52.125rem;
+    height: 41.625rem;
+}
+
+.home-page-container {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.wide {
+    font-size: 2.25rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    color: rgba(227, 227, 227, 1);
+}
+
+.Header-links {
+    text-decoration: none;
+    color: rgba(227, 227, 227, 1);
+    margin: 1.188rem;
+}
+.header-logo{
+    width:92.063rem;
+    height: 7.813rem;
+    display: flex;
+    margin: auto;
+
+}
+
+.fa-solid fa-cart-shopping {
+    text-decoration: none;
+    color: #000;
+    background-color: #000000;
+}
+
+.View-Games {
+    text-decoration: none;
+    color: rgba(227, 227, 227, 1);
+    font-size: 2.25rem;
+}
